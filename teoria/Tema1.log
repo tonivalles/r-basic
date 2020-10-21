@@ -1,0 +1,13 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.19)  21 OCT 2020 16:40
+entering extended mode
+**./Tema1.tex
+(Tema1.tex
+LaTeX2e <2020-10-01> patch level 1
+L3 programming layer <2020-10-05> xparse <2020-03-03>
+
+! Sorry, but C:\Users\Toni\AppData\Local\Programs\MiKTeX\miktex\bin\x64\pdflatex.exe did not succeed.
+
+! The log file hopefully contains the information to get MiKTeX going again:
+
+!   C:\Users\Toni\AppData\Local\MiKTeX\miktex\log\pdflatex.log
+! pdflatex: major issue: So far, you have not checked for MiKTeX updates.
